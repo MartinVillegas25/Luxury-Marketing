@@ -86,6 +86,10 @@ html{
     
 }
 
+#botonformulario{
+    background-color: var(--color);
+}
+
 footer{
     background-color: var(--color);
 }
